@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\BlackPawn">
+      <UniqueIdentifier>{b306ec05-f26a-4d70-a2bb-d6a99c24a248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BlackPiece">
+      <UniqueIdentifier>{0fc2cc91-e5f5-4b4f-a7da-f639934176ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BlackQueen">
+      <UniqueIdentifier>{c76e7671-75d9-4dd4-bdf7-fa0d04475809}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Piece">
+      <UniqueIdentifier>{efb7b04c-3bd5-480d-9a3b-92ca9284a2bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\WhitePawn">
+      <UniqueIdentifier>{ddbc8719-c9de-48c2-bb07-c2b284b44430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\WhitePiece">
+      <UniqueIdentifier>{05a3062a-1ec9-407b-8579-0274718710d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\WhiteQueen">
+      <UniqueIdentifier>{6aa80a43-052b-4c4e-b075-d0d82184bea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gameboard">
+      <UniqueIdentifier>{df9eb1d3-46a6-4fb1-a248-b9ba3f4def88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Square">
+      <UniqueIdentifier>{101c6814-f4ae-407d-940b-a71e1d81af6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Structures">
+      <UniqueIdentifier>{d5cdcff2-0696-40af-a77e-026229eb0315}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Piece.cpp">
+      <Filter>Source Files\Piece</Filter>
+    </ClCompile>
+    <ClCompile Include="WhitePiece.cpp">
+      <Filter>Source Files\WhitePiece</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackPiece.cpp">
+      <Filter>Source Files\BlackPiece</Filter>
+    </ClCompile>
+    <ClCompile Include="WhitePawn.cpp">
+      <Filter>Source Files\WhitePawn</Filter>
+    </ClCompile>
+    <ClCompile Include="WhiteQueen.cpp">
+      <Filter>Source Files\WhiteQueen</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackQueen.cpp">
+      <Filter>Source Files\BlackQueen</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackPawn.cpp">
+      <Filter>Source Files\BlackPawn</Filter>
+    </ClCompile>
+    <ClCompile Include="Gameboard.cpp">
+      <Filter>Source Files\Gameboard</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Source Files\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="Structures.cpp">
+      <Filter>Source Files\Structures</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Piece.h">
+      <Filter>Source Files\Piece</Filter>
+    </ClInclude>
+    <ClInclude Include="WhitePiece.h">
+      <Filter>Source Files\WhitePiece</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackPiece.h">
+      <Filter>Source Files\BlackPiece</Filter>
+    </ClInclude>
+    <ClInclude Include="WhitePawn.h">
+      <Filter>Source Files\WhitePawn</Filter>
+    </ClInclude>
+    <ClInclude Include="WhiteQueen.h">
+      <Filter>Source Files\WhiteQueen</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackPawn.h">
+      <Filter>Source Files\BlackPawn</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackQueen.h">
+      <Filter>Source Files\BlackQueen</Filter>
+    </ClInclude>
+    <ClInclude Include="Gameboard.h">
+      <Filter>Source Files\Gameboard</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Source Files\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Source Files\Structures</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
